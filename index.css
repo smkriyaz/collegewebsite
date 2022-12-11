@@ -1,0 +1,74 @@
+body{
+   
+}
+
+.first{
+    display: flex;
+    
+  
+    
+}
+
+
+.image2{
+    padding-left: 200px;
+    padding-top: 50px;
+    color: black;
+    
+}
+.size{
+    margin-left: 20px;
+}
+.help{
+    margin-left: 250px;
+}
+.swach{
+    padding-left: 30px;
+}
+.news{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 20px;
+   
+}
+.smk{
+    margin-top: 100px;
+   margin-left: 100px;
+    border-style: solid;
+
+}
+.cnews{
+    padding-left: 20px;
+    width: 600px;
+}
+.cevents{
+    padding-left: 20px;
+    width:600px;
+}
+a{
+    text-decoration: none;
+}
+
+[data-component="slideshow"] .slide {
+    display: none;
+  }
+
+  [data-component="slideshow"] .slide.active {
+    display: block;
+    padding: 2% 3%;
+    margin: 2% 0 2% 3%
+  }
+
+  .para{
+   
+    padding-left: 50px;
+  }
+  .bottom{
+    display: flex;
+    background-color: antiquewhite;
+  
+  }
+  .bottom2{
+margin-left: 20px;
+  }
